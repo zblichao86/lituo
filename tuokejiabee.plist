@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://172.28.20.119:1801/xml/tkjbee.ipa</string>
+            <string>http://172.28.20.119:1801/xml/relist.ipa</string>
           </dict>
         </array>
         <key>metadata</key>
@@ -23,7 +23,7 @@
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-          <string>�ؿͼ��۷��</string>
+          <string>拓客加专员版</string>
         </dict>
       </dict>
     </array>
