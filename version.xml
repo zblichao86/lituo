@@ -3,16 +3,16 @@
   <app name="tuokejia_beeadmin">      
 	    <version>12</version>
       <name>tuokejia_beeadmin_1.0.0</name>
-	    <url>http://172.28.20.119:1801/xml/TKJ-BeeAdmin.apk</url>
+	    <url>https://raw.githubusercontent.com/zblichao86/lituo/master/TKJ-BeeAdmin.apk</url>
   </app>
   <app name="tuokejia_bee">
     <version>5</version>
     <name>tuokejia_bee_1.0.0</name>
-    <url>http://172.28.20.119:1801/xml/TKJ-Bee.apk</url>
+    <url>https://raw.githubusercontent.com/zblichao86/lituo/master/TKJ-Bee.apk</url>
   </app>
   <app name="tuokejia_admin">
     <version>4</version>
     <name>tuokejia_bee_1.0.0</name>
-    <url>http://172.28.20.119:1801/xml/TKJ-Admin.apk</url>
+    <url>https://raw.githubusercontent.com/zblichao86/lituo/master/TKJ-Admin.apk</url>
   </app>
 </update>
