@@ -2,17 +2,17 @@
 <update>
   <app name="tuokejia_beeadmin">      
 	    <version>17</version>
-      <name>tuokejia_beeadmin_1.0.0</name>
+      <name>tuokejia_beeadmin_2.0.0</name>
 	    <url>https://raw.githubusercontent.com/zblichao86/lituo/master/TKJ-BeeAdmin.apk</url>
   </app>
   <app name="tuokejia_bee">
     <version>12</version>
-    <name>tuokejia_bee_1.0.0</name>
+    <name>tuokejia_bee_2.0.0</name>
     <url>https://raw.githubusercontent.com/zblichao86/lituo/master/TKJ-Bee.apk</url>
   </app>
   <app name="tuokejia_admin">
-    <version>9</version>
-    <name>tuokejia_bee_1.0.0</name>
+    <version>10</version>
+    <name>tuokejia_admin_2.0.0</name>
     <url>https://raw.githubusercontent.com/zblichao86/lituo/master/TKJ-Admin.apk</url>
   </app>
 </update>
