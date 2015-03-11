@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 <update>
   <app name="tuokejia_beeadmin">      
-	    <version>19</version>
+	    <version>20</version>
       <name>tuokejia_beeadmin_2.0.0</name>
 	    <url>https://raw.githubusercontent.com/zblichao86/lituo/master/TKJ-BeeAdmin.apk</url>
   </app>
