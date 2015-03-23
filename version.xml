@@ -15,4 +15,9 @@
     <name>tuokejia_admin_2.0.0</name>
     <url>https://raw.githubusercontent.com/zblichao86/lituo/master/TKJ-Admin.apk</url>
   </app>
+  <app name="tuokejia_landlady">
+    <version>1</version>
+    <name>tuokejia_landlady_1.0.0</name>
+    <url>https://raw.githubusercontent.com/zblichao86/lituo/master/TKJ-Admin.apk</url>
+  </app>
 </update>
