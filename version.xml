@@ -7,12 +7,12 @@
   </app>
   <app name="tuokejia_bee">
     <version>19</version>
-    <name>tuokejia_bee_2.0.0</name>
+    <name>tuokejia_bee_2.0.3</name>
     <url>https://raw.githubusercontent.com/zblichao86/lituo/master/TKJ-Bee.apk</url>
   </app>
   <app name="tuokejia_admin">
     <version>20</version>
-    <name>tuokejia_admin_2.0.0</name>
+    <name>tuokejia_admin_2.0.3</name>
     <url>https://raw.githubusercontent.com/zblichao86/lituo/master/TKJ-Admin.apk</url>
   </app>
   <app name="tuokejia_landlady">
