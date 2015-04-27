@@ -11,13 +11,13 @@
     <url>https://raw.githubusercontent.com/zblichao86/lituo/master/TKJ-Bee.apk</url>
   </app>
   <app name="tuokejia_admin">
-    <version>20</version>
-    <name>tuokejia_admin_2.0.3</name>
+    <version>21</version>
+    <name>tuokejia_admin_2.0.4</name>
     <url>https://raw.githubusercontent.com/zblichao86/lituo/master/TKJ-Admin.apk</url>
   </app>
   <app name="tuokejia_landlady">
-    <version>3</version>
-    <name>tuokejia_landlady_1.0.0</name>
+    <version>4</version>
+    <name>tuokejia_landlady_1.0.1</name>
     <url>https://raw.githubusercontent.com/zblichao86/lituo/master/TKJ-Landlady.apk</url>
   </app>
 </update>
