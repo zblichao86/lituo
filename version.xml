@@ -20,4 +20,9 @@
     <name>tuokejia_landlady_1.0.1</name>
     <url>https://raw.githubusercontent.com/zblichao86/lituo/master/TKJ-Landlady.apk</url>
   </app>
+  <app name="zkq">
+    <version>2</version>
+    <name>zkq_1.0.1</name>
+    <url>https://raw.githubusercontent.com/zblichao86/lituo/master/zkq.apk</url>
+  </app>
 </update>
