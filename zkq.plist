@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://m.zhuankq.com/assets/zkq.ipa</string>
+					<string>http://test.m.zhuankq.com/zkq.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
