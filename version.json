@@ -1,16 +1,17 @@
-[{
-        "name" = "tuokejia_beeadmin";
-        "url" = "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zblichao86/lituo/master/tuokejia.plist";
-        "version" = 10;
+[
+    {
+        "name": "tuokejia_beeadmin",
+        "url": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zblichao86/lituo/master/tuokejia.plist",
+        "version": 10
     },
-        {
-        "name" = "tuokejia_bee";
-        "url" = "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zblichao86/lituo/master/tuokejiabee.plist";
-        "version" = 10;
+    {
+        "name": "tuokejia_bee",
+        "url": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zblichao86/lituo/master/tuokejiabee.plist",
+        "version": 10
     },
-        {
-        "name" = "tuokejia_TKJController";
-        "url" = "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zblichao86/lituo/master/TKJController.plist";
-        "version" = 8;
+    {
+        "name": "tuokejia_TKJController",
+        "url": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zblichao86/lituo/master/TKJController.plist",
+        "version": 8
     }
 ]
