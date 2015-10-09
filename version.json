@@ -16,7 +16,7 @@
     },
     {
         "name": "zkq",
-        "url": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zblichao86/lituo/master/zkq.plist",
-        "version": 18
+        "url": "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zblichao86/lituo/master/zkqv2.plist",
+        "version": 19
     }
 ]
