@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://b.f9ke.com/assets/yofang.ipa</string>
+					<string>http://172.28.42.84:5566/yofang.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.eju.ltchina.tkjbee</string>
+				<string>com.relist.yofangs</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
