@@ -26,14 +26,14 @@
     <url>https://raw.githubusercontent.com/zblichao86/lituo/master/ZKQX.apk</url>
   </app>  
   <app name="fangjia">
-    <version>21</version>
+    <version>23</version>
     <name>fangjia_1.0</name>
-    <url>http://b.f9ke.com/assets/Fangjia.apk</url>
+    <url>http://o91ubihmc.bkt.clouddn.com/Fangjia.apk</url>
   </app> 
   <app name="youfang">
-    <version>3</version>
+    <version>12</version>
     <name>youfang_1.0</name>
-    <url>http://b.f9ke.com/assets/Youfang.apk</url>
+    <url>http://o91ubihmc.bkt.clouddn.com/Youfang.apk</url>
   </app>
   <app name="paochi">
     <version>2</version>
