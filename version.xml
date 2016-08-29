@@ -27,12 +27,12 @@
   </app>  
   <app name="fangjia">
     <version>23</version>
-    <name>fangjia_1.0</name>
+    <name>fangjia_2.0</name>
     <url>http://o91ubihmc.bkt.clouddn.com/Fangjia.apk</url>
   </app> 
   <app name="youfang">
     <version>12</version>
-    <name>youfang_1.0</name>
+    <name>youfang_2.0</name>
     <url>http://o91ubihmc.bkt.clouddn.com/Youfang.apk</url>
   </app>
   <app name="paochi">
