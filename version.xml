@@ -26,12 +26,12 @@
     <url>https://raw.githubusercontent.com/zblichao86/lituo/master/ZKQX.apk</url>
   </app>  
   <app name="fangjia">
-    <version>23</version>
+    <version>24</version>
     <name>fangjia_2.0</name>
     <url>http://o91ubihmc.bkt.clouddn.com/Fangjia.apk</url>
   </app> 
   <app name="youfang">
-    <version>12</version>
+    <version>15</version>
     <name>youfang_2.0</name>
     <url>http://o91ubihmc.bkt.clouddn.com/Youfang.apk</url>
   </app>
